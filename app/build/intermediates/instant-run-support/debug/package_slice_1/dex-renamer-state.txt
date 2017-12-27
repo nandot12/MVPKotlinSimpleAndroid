@@ -1,0 +1,4 @@
+#Wed Dec 27 21:02:32 WIB 2017
+base.0=/Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

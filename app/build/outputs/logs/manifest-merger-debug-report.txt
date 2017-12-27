@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/135dd1b5d0c5e741b356d316128cfedb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5e1adc994aa019f45481c016418c107b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/edc932359b83f745c3596ef673c43f4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a9c71e02c0cd0024d0e95b29d770f73a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0fb22323185412382ca2f7a7662db749/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7e73f8cecb01882ed41b57d4bcae1925/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0acd8b41fa736383168ecbae0ce51d19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0c9adf6fdb413c0be886a5fa583ff8d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c9d7684313fbdbdf2904e7081db19668/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/17e443dd6effdc4df07783fab1c52e8b/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5e1adc994aa019f45481c016418c107b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5e1adc994aa019f45481c016418c107b/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:11:9-40
+activity#id.co.imastudio.mvpkotlinandroid.views.main.MainActivity
+ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:12:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/135dd1b5d0c5e741b356d316128cfedb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/135dd1b5d0c5e741b356d316128cfedb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5e1adc994aa019f45481c016418c107b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5e1adc994aa019f45481c016418c107b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/edc932359b83f745c3596ef673c43f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/edc932359b83f745c3596ef673c43f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a9c71e02c0cd0024d0e95b29d770f73a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a9c71e02c0cd0024d0e95b29d770f73a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0fb22323185412382ca2f7a7662db749/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0fb22323185412382ca2f7a7662db749/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7e73f8cecb01882ed41b57d4bcae1925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7e73f8cecb01882ed41b57d4bcae1925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0acd8b41fa736383168ecbae0ce51d19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0acd8b41fa736383168ecbae0ce51d19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0c9adf6fdb413c0be886a5fa583ff8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0c9adf6fdb413c0be886a5fa583ff8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c9d7684313fbdbdf2904e7081db19668/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c9d7684313fbdbdf2904e7081db19668/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/17e443dd6effdc4df07783fab1c52e8b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/17e443dd6effdc4df07783fab1c52e8b/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nandoseptianhusni/Downloads/MvpKotlinAndroid/app/src/main/AndroidManifest.xml
